@@ -9,5 +9,4 @@
 </head>
 <body>
     <h1>Hello ITea</h1>
-    <a href = "about.php">
 </html>
